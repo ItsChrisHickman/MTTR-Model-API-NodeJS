@@ -1,0 +1,16 @@
+{
+  "name": "mttr-model-api-nodejs",
+  "version": "1.0.0",
+  "description": "A Simple NodeJS Server that connects to Model API",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Hickman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2"
+  }
+}
